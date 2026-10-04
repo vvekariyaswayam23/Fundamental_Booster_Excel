@@ -1,9 +1,0 @@
-PR. 1 Fundamental Booster
-=========================
-Excel project completed using the supplied datasets.
-
-Files:
-- PR1_Fundamental_Booster.xlsx
-- README.md
-
-Upload the entire folder to GitHub, or upload these two files directly into a GitHub repository.
