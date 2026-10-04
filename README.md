@@ -65,9 +65,7 @@ The workbook uses formulas and lookup functions to analyse student performance, 
 - Excel formulas and functions
 - Structured tabular datasets
 
-## 📷 Project Screenshots
-
-Add your screenshots to a folder named `screenshots` in this repository, then replace the placeholders below with your uploaded image paths.
+---
 
 | Worksheet | Preview |
 |---|---|
@@ -76,17 +74,11 @@ Add your screenshots to a folder named `screenshots` in this repository, then re
 | 👨‍💼 Employees | `screenshots/employees.png` |
 | 🧮 Functions | `screenshots/functions.png` |
 
-<!-- Example: ![Students Sheet](screenshots/students.png) -->
-
-## 🎥 Project Demo
-
-Add your project walkthrough video link here:
-
-**▶️ Demo Video:** `Add your YouTube / Google Drive video URL`
+---
 
 ## 📂 Project File
 
-- `PR1_Fundamental_Booster.xlsx` – Main Excel workbook containing all project worksheets and formulas.
+- `Fundamental_Booster.xlsx` – Main Excel workbook containing all project worksheets and formulas.
 
 ## ▶️ How to Use
 
@@ -96,7 +88,7 @@ Add your project walkthrough video link here:
 4. Select formula cells to view and understand the formulas.
 5. Change sample input values to practise how the calculations update.
 
-> **Note:** Functions such as `XLOOKUP`, `XMATCH`, and `FILTER` require a compatible Excel version, such as Microsoft 365 or Excel 2021 and later. Dynamic-array results may spill into neighbouring cells.
+---
 
 ## 📚 Learning Outcomes
 
