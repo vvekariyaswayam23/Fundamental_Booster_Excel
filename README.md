@@ -113,9 +113,6 @@ By completing this project, I practised:
 
 **Swayam Vekariya**
 
-- GitHub: [Add your GitHub profile link](https://github.com/)
-- LinkedIn: [Add your LinkedIn profile link](https://www.linkedin.com/)
-
 ---
 
 <p align="center">
